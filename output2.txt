@@ -1,0 +1,21 @@
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 30 300 + 65 1000 + * @60 * 
+
+Final result is  :  -21087000.000000
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 8 7 - 6 * 70 600 + 1000 * / 
+
+Final result is  :  0.000009
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 10 @2000 30 + 4 @5 + * * 60 70 @80 + * / 
+
+Final result is  :  -32.833332
+
