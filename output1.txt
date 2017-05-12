@@ -1,0 +1,35 @@
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 12 @3 + 4 * 4 3 + @4 - / 
+
+Final result is  :  3.272727
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : @@4 
+
+Final result is  :  4.000000
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 9 1 + 5 - 8 * 3 / 
+
+Final result is  :  13.333333
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : @9 1 + 7 * 
+
+Final result is  :  -56.000000
+
+
+.....OUTPUT.....
+
+POSTFIX EXPRESSION : 4 4 + @5 * 6 8 1 - + * 
+
+Final result is  :  -520.000000
+
